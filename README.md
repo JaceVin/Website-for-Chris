@@ -23,8 +23,7 @@
 ## Overview
 
 ### Roadmap
-- [x] README Template
-    - [x] JaceVin&apos;s Template for READMEs
+> empty
 
 <br>
 
