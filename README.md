@@ -12,3 +12,5 @@
 ### New Changes
 > empty
 
+Staged:
+> + index.html
