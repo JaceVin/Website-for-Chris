@@ -6,7 +6,7 @@
 
 ### Roadmap
 - [ ] Mid-Top Text
-    - [ ] Display text
+    - [x] Display text
     - [ ] Align text above center (like OneUI)
 
 ### New Changes
