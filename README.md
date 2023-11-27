@@ -10,10 +10,7 @@
     - [x] Align text above center (like OneUI)
 
 ### New Changes
-> empty
-
-Staged:
-> + index.html
-
-> + style.css
++ Live Text
+    + GitHub Pages
+    + Simple OneUI Text
 
