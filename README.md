@@ -5,10 +5,10 @@
 ## Overview
 
 ### Roadmap
-- [x] Init README
-    - [x] Setup README according to template
+- [ ] Mid-Top Text
+    - [ ] Display text
+    - [ ] Align text above center (like OneUI)
 
 ### New Changes
-+ Initial Configuration
-    + README Template
+> empty
 
