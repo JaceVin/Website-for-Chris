@@ -5,9 +5,9 @@
 ## Overview
 
 ### Roadmap
-- [ ] Mid-Top Text
+- [x] Mid-Top Text
     - [x] Display text
-    - [ ] Align text above center (like OneUI)
+    - [x] Align text above center (like OneUI)
 
 ### New Changes
 > empty
