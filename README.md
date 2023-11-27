@@ -5,9 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] Mid-Top Text
-    - [x] Display text
-    - [x] Align text above center (like OneUI)
+> empty
 
 ### New Changes
 + Live Text
