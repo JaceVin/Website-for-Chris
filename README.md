@@ -5,9 +5,10 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] MuscleTech Watermark
+    - [x] Collect image of MuscleTech's logo
+    - [ ] Display opaque logo at corner
 
 ### New Changes
-+ Colorful Design
-    + Color-Palette
+> empty
 
