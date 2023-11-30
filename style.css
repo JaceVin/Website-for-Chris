@@ -33,3 +33,10 @@ body {
     right: 0;
 }
 
+@media (max-width: 350px) {
+    #logo-muscletech {
+        width: 50px;
+        bottom: 12px;
+    }
+}
+
