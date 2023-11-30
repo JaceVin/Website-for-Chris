@@ -26,5 +26,7 @@ body {
     color: var(--vibrant-green);
 }
 
-#logo-muscletech {}
+#logo-muscletech {
+    width: 100px;
+}
 
