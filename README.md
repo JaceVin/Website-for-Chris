@@ -8,7 +8,6 @@
 > empty
 
 ### New Changes
-+ Live Text
-    + GitHub Pages
-    + Simple OneUI Text
++ Colorful Design
+    + Color-Palette
 
