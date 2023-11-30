@@ -31,6 +31,7 @@ body {
     position: fixed;
     bottom: 18px;
     right: 0;
+    opacity: 0.4;
 }
 
 @media (max-width: 350px) {
