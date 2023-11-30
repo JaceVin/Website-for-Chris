@@ -5,9 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] MuscleTech Watermark
-    - [x] Collect image of MuscleTech's logo
-    - [x] Display opaque image at corner
+> empty
 
 ### New Changes
 + MuscleTech Watermark
