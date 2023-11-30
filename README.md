@@ -5,11 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] Colors from MuscleTech
-    - [x] Collect MuscleTech color-palette
-	- [x] Init colors at CSS :root
-	- [x] Set text color
-	- [x] Set background gradient
+> empty
 
 ### New Changes
 + Colorful Design
