@@ -5,10 +5,12 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] Colors from MuscleTech
+    - [x] Collect MuscleTech color-palette
+	- [ ] Init colors at CSS :root
+	- [ ] Set text color
+	- [ ] Set background gradient
 
 ### New Changes
-+ Live Text
-    + GitHub Pages
-    + Simple OneUI Text
+> empty
 
