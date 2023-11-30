@@ -1,7 +1,7 @@
 :root {
     --black: #000000;
     --white: #FFFFFF;
-    
+
     --vibrant-green: #69F5AD;
     --dark-blue: #0E222B;
     --gray: #69737C;
@@ -17,6 +17,7 @@ body {
     display: grid;
     justify-content: center;
     grid-template-rows: 1fr auto repeat(4, 1fr);
+    background-image: linear-gradient(to top left, var(--dark-blue), var(--black));
 }
 
 #promo-code {
