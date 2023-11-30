@@ -10,5 +10,5 @@
     - [x] Display opaque image at corner
 
 ### New Changes
-> empty
-
++ MuscleTech Watermark
+    + Fixed Responsive
