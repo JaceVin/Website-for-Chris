@@ -8,7 +8,7 @@
 - [ ] Colors from MuscleTech
     - [x] Collect MuscleTech color-palette
 	- [x] Init colors at CSS :root
-	- [ ] Set text color
+	- [x] Set text color
 	- [ ] Set background gradient
 
 ### New Changes

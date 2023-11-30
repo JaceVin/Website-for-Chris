@@ -22,5 +22,6 @@ body {
 #promo-code {
     margin: 0;
     grid-row: 2;
+    color: var(--vibrant-green);
 }
 
