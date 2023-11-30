@@ -12,5 +12,6 @@
 	- [x] Set background gradient
 
 ### New Changes
-> empty
++ Colorful Design
+    + Color-Palette
 
