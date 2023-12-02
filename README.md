@@ -6,7 +6,7 @@
 
 ### Roadmap
 - [ ] Customize CSS
-    - [ ] Import Roboto font
+    - [x] Import Roboto font
     - [ ] Customize default text selection
     - [ ] Add unselectable class
     - [ ] Prevent underline on anchor html-tag
@@ -14,4 +14,7 @@
 
 ### New Changes
 > empty
+
+Staged:
+> + Roboto Font
 
