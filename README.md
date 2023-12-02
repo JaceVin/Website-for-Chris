@@ -5,9 +5,13 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] Customize CSS
+    - [ ] Import Roboto font
+    - [ ] Customize default text selection
+    - [ ] Add unselectable class
+    - [ ] Prevent underline on anchor html-tag
+    - [ ] Add underline class
 
 ### New Changes
-+ Colorful Design
-    + Color-Palette
+> empty
 
