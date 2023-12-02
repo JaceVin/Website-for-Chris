@@ -5,7 +5,8 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] Responsive Text
+    - [ ] If wrap, lower font-size
 
 <br>
 
@@ -29,5 +30,5 @@ Chris requests to change the code via text and it gets manually hardcoded.
 # About
 
 ### New Changes
-+ Single Click Message
+> empty
 
