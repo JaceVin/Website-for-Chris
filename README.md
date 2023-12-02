@@ -5,10 +5,13 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] Clipboard Shortcut
+    - [ ] Init promo code flex container
+    - [ ] Add caption for promo code
+    - [ ] Init JS
+    - [ ] Caption copy promo code to clipboard on click
+    - [ ] Cursor pointer on caption
 
 ### New Changes
-+ Promo Details
-    + Info
-    + Check Icon
+> empty
 
