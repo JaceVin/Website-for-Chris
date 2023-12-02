@@ -5,10 +5,10 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] First Code
+    - [ ] Display current promo-code
+    - [ ] Document Usage
 
 ### New Changes
-+ Clipboard Shortcut
-    + Promo Code Caption
-    + Copy on Click/Tap
+> empty
 
