@@ -5,11 +5,12 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] Info Items
+    - [ ] Init info text items
+    - [ ] Get the check icon from Google
+    - [ ] Add icon to each info item
+    - [ ] Insert info content
 
 ### New Changes
-+ Custom CSS
-    + Roboto Font
-    + Better Green
-    + Custom Anchor
+> empty
 
