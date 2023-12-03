@@ -75,6 +75,8 @@ span {
     color: var(--vibrant-green);
 }
 
+#promo-code-caption {}
+
 #info-container {
     width: 100%;
     height: 100%;
