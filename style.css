@@ -22,6 +22,11 @@
     -webkit-user-select: none;  /* Safari */
 }
 
+.underline {
+    text-decoration: underline;
+    text-decoration-color: var(--light-pink);
+}
+
 a {
     color: inherit;
     text-decoration: none;
