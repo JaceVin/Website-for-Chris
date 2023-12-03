@@ -7,7 +7,7 @@
 ### Roadmap
 - [ ] Clipboard Shortcut
     - [x] Init promo code flex container
-    - [ ] Add caption for promo code
+    - [x] Add caption for promo code
     - [ ] Init JS
     - [ ] Caption copy promo code to clipboard on click
     - [ ] Cursor pointer on caption

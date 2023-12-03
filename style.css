@@ -68,6 +68,7 @@ span {
     display: flex;
     flex-direction: column;
     grid-row: 3;
+    text-align: center;
 }
 
 #promo-code {
@@ -75,7 +76,11 @@ span {
     color: var(--vibrant-green);
 }
 
-#promo-code-caption {}
+#promo-code-caption {
+    margin: 0;
+    display: inline;
+    color: var(--gray);
+}
 
 #info-container {
     width: 100%;
