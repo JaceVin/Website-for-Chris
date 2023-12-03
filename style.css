@@ -48,7 +48,7 @@ body {
     margin: 0;
     display: grid;
     justify-content: center;
-    grid-template-rows: 1fr auto repeat(4, 1fr);
+    grid-template-rows: auto 1fr auto repeat(3, 1fr) auto 1fr auto;
     background-image: linear-gradient(to top left, var(--dark-blue), var(--black));
     gap: 24px;
     text-align: center;
@@ -64,18 +64,19 @@ span {
     color: var(--vibrant-green);
 }
 
-#promo-code-container {}
+#promo-code-container {
+    grid-row: 3;
+}
 
 #promo-code {
     margin: 0;
-    grid-row: 2;
     color: var(--vibrant-green);
 }
 
 #info-container {
     width: 100%;
     height: 100%;
-    grid-row: 3 / -2;
+    grid-row: 4 / -3;
     display: flex;
     flex-direction: column;
     gap: 16px;
