@@ -8,10 +8,13 @@
 - [ ] Clipboard Shortcut
     - [x] Init promo code flex container
     - [x] Add caption for promo code
-    - [ ] Init JS
+    - [x] Init JS
     - [ ] Caption copy promo code to clipboard on click
     - [ ] Cursor pointer on caption
 
 ### New Changes
 > empty
+
+Staged:
+> + script.js
 
