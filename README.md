@@ -9,7 +9,7 @@
     - [x] Import Roboto font
     - [x] Customize default text selection
     - [x] Add unselectable class
-    - [ ] Prevent underline on anchor html-tag
+    - [x] Prevent underline on anchor html-tag
     - [ ] Add underline class
 
 ### New Changes
