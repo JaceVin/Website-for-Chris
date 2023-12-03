@@ -64,6 +64,8 @@ span {
     color: var(--vibrant-green);
 }
 
+#promo-code-container {}
+
 #promo-code {
     margin: 0;
     grid-row: 2;
