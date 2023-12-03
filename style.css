@@ -17,6 +17,11 @@
     background: var(--dark-blue);
 }
 
+.unselectable {
+    user-select: none;
+    -webkit-user-select: none;  /* Safari */
+}
+
 html, body {
     height: 100%;
 }

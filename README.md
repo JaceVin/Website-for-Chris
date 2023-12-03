@@ -8,7 +8,7 @@
 - [ ] Customize CSS
     - [x] Import Roboto font
     - [x] Customize default text selection
-    - [ ] Add unselectable class
+    - [x] Add unselectable class
     - [ ] Prevent underline on anchor html-tag
     - [ ] Add underline class
 
