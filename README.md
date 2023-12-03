@@ -13,12 +13,8 @@
     - [x] Add underline class
 
 ### New Changes
-> empty
-
-Staged:
-> + Roboto Font
-
-> + Better Green
-
-> + Custom Anchor
++ Custom CSS
+    + Roboto Font
+    + Better Green
+    + Custom Anchor
 
