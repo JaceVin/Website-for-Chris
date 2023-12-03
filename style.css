@@ -65,6 +65,8 @@ span {
 }
 
 #promo-code-container {
+    display: flex;
+    flex-direction: column;
     grid-row: 3;
 }
 
