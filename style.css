@@ -12,6 +12,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+:root::selection {
+    color: inherit;
+    background: var(--dark-blue);
+}
+
 html, body {
     height: 100%;
 }
