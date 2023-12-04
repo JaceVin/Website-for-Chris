@@ -80,6 +80,7 @@ span {
 
 #promo-code-caption {
     color: var(--gray);
+    cursor: pointer;
 }
 
 #info-container {
