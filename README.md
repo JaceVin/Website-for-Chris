@@ -9,7 +9,7 @@
     - [x] Init promo code flex container
     - [x] Add caption for promo code
     - [x] Init JS
-    - [ ] Caption copy promo code to clipboard on click
+    - [x] Caption copy code promo code to clipboard on click
     - [ ] Cursor pointer on caption
 
 ### New Changes
@@ -17,4 +17,6 @@
 
 Staged:
 > + script.js
+
+> + copy to clipboard
 

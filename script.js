@@ -1,6 +1,9 @@
 const promoCodeCaption = document.querySelector('#promo-code-caption');
 
 promoCodeCaption.addEventListener('click', event => {
+    const promoCode = document.querySelector('#promo-code');
+    navigator.clipboard.writeText(promoCode.innerText);
+
     temporaryMessageOn(promoCodeCaption, 'Copied!', 850);
 });
 
