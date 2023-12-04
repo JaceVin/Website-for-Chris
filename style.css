@@ -51,34 +51,34 @@ body {
     grid-template-rows: auto 1fr auto repeat(3, 1fr) auto 1fr auto;
     background-image: linear-gradient(to top left, var(--dark-blue), var(--black));
     gap: 24px;
-    text-align: center;
 }
 
 p {
     display: inline;
     color: var(--white);
     margin: 0;
+    width: max-content;
 }
 
 span {
     color: var(--vibrant-green);
+    width: max-content;
 }
 
 #promo-code-container {
     display: flex;
     flex-direction: column;
     grid-row: 3;
-    text-align: center;
+    align-items: center;
 }
 
 #promo-code {
     margin: 0;
     color: var(--vibrant-green);
+    width: max-content;
 }
 
 #promo-code-caption {
-    margin: 0;
-    display: inline;
     color: var(--gray);
 }
 
