@@ -13,10 +13,7 @@
     - [x] Cursor pointer on caption
 
 ### New Changes
-> empty
-
-Staged:
-> + script.js
-
-> + copy to clipboard
++ Clipboard Shortcut
+    + Promo Code Caption
+    + Copy on Click/Tap
 
