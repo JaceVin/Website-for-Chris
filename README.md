@@ -6,7 +6,7 @@
 
 ### Roadmap
 - [ ] Info Items
-    - [ ] Init info text items
+    - [x] Init info text items
     - [ ] Get the check icon from Google
     - [ ] Add icon to each info item
     - [ ] Insert info content
