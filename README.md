@@ -5,9 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] First Code
-    - [x] Display current promo-code
-    - [x] Document Usage
+> empty
 
 <br>
 
