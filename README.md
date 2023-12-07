@@ -7,10 +7,13 @@
 ### Roadmap
 - [ ] Info Items
     - [x] Init info text items
-    - [ ] Get the check icon from Google
+    - [x] Get the check icon from Google
     - [ ] Add icon to each info item
     - [ ] Insert info content
 
 ### New Changes
 > empty
+
+Staged:
+> + Check Icon
 
