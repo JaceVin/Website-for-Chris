@@ -12,10 +12,7 @@
     - [x] Insert info content
 
 ### New Changes
-> empty
-
-Staged:
-> + Check Icon
-
-> + Info
++ Promo Details
+    + Info
+    + Check Icon
 
