@@ -8,7 +8,7 @@
 - [ ] Info Items
     - [x] Init info text items
     - [x] Get the check icon from Google
-    - [ ] Add icon to each info item
+    - [x] Add icon to each info item
     - [ ] Insert info content
 
 ### New Changes
