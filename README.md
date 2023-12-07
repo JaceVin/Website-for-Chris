@@ -6,9 +6,12 @@
 
 ### Roadmap
 - [ ] First Code
-    - [ ] Display current promo-code
+    - [x] Display current promo-code
     - [ ] Document Usage
 
 ### New Changes
 > empty
+
+Staged:
+> + Display Code
 
