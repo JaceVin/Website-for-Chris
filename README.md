@@ -5,11 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] Info Items
-    - [x] Init info text items
-    - [x] Get the check icon from Google
-    - [x] Add icon to each info item
-    - [x] Insert info content
+> empty
 
 ### New Changes
 + Promo Details
