@@ -5,15 +5,17 @@
 ## Overview
 
 ### Roadmap
-- [ ] Info Items
+- [x] Info Items
     - [x] Init info text items
     - [x] Get the check icon from Google
     - [x] Add icon to each info item
-    - [ ] Insert info content
+    - [x] Insert info content
 
 ### New Changes
 > empty
 
 Staged:
 > + Check Icon
+
+> + Info
 
