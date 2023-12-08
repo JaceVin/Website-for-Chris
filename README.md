@@ -5,8 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] Promo Code Patch
-    - [x] Increase promo code's font size
+> empty
 
 <br>
 
