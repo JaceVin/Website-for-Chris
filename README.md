@@ -5,8 +5,8 @@
 ## Overview
 
 ### Roadmap
-- [ ] Discrete Message
-    - [ ] Prevent message double click
+- [x] Discrete Message
+    - [x] Prevent message double click
 
 <br>
 
@@ -31,4 +31,7 @@ Chris requests to change the code via text and it gets manually hardcoded.
 
 ### New Changes
 > empty
+
+Staged:
+> + Single Click Message
 
