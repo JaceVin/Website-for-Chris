@@ -5,7 +5,8 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] Discrete Message
+    - [ ] Prevent message double click
 
 <br>
 
@@ -29,5 +30,5 @@ Chris requests to change the code via text and it gets manually hardcoded.
 # About
 
 ### New Changes
-+ Aligned Info
+> empty
 
