@@ -30,8 +30,5 @@ Chris requests to change the code via text and it gets manually hardcoded.
 # About
 
 ### New Changes
-> empty
-
-Staged:
-> + Aligned Info
++ Aligned Info
 
