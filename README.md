@@ -5,8 +5,8 @@
 ## Overview
 
 ### Roadmap
-- [ ] Promo Code Patch
-    - [ ] Increase promo code's font size
+- [x] Promo Code Patch
+    - [x] Increase promo code's font size
 
 <br>
 
@@ -31,4 +31,7 @@ Chris requests to change the code via text and it gets manually hardcoded.
 
 ### New Changes
 > empty
+
+Staged:
+> + Promo Code's Larger Font
 

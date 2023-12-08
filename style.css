@@ -76,6 +76,7 @@ span {
     margin: 0;
     color: var(--vibrant-green);
     width: max-content;
+    font-size: 48px;
 }
 
 #promo-code-caption {
