@@ -5,8 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] Discrete Message
-    - [x] Prevent message double click
+> empty
 
 <br>
 
