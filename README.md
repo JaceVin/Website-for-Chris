@@ -29,7 +29,5 @@ Chris requests to change the code via text and it gets manually hardcoded.
 # About
 
 ### New Changes
-+ Minimum Viable Product  (MVP)
-    + Documentation
-    + Display Code
++ Promo Code's Larger Font
 
