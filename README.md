@@ -5,8 +5,8 @@
 ## Overview
 
 ### Roadmap
-- [ ] Keep Info Items Centered
-    - [ ] Align info items to center
+- [x] Keep Info Items Centered
+    - [x] Align info items to center
 
 <br>
 
@@ -31,4 +31,7 @@ Chris requests to change the code via text and it gets manually hardcoded.
 
 ### New Changes
 > empty
+
+Staged:
+> + Aligned Info
 
