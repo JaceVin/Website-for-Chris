@@ -5,8 +5,7 @@
 ## Overview
 
 ### Roadmap
-- [x] Keep Info Items Centered
-    - [x] Align info items to center
+> empty
 
 <br>
 
