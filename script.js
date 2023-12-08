@@ -8,6 +8,9 @@ promoCodeCaption.addEventListener('click', event => {
 });
 
 function temporaryMessageOn(element, message, delay) {
+
+    if (message == element.innerText) return;
+
     const originalText = element.innerText;
     element.innerText = message;
     setTimeout( () => {
