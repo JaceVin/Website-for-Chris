@@ -5,7 +5,8 @@
 ## Overview
 
 ### Roadmap
-> empty
+- [ ] Keep Info Items Centered
+    - [ ] Align info items to center
 
 <br>
 
@@ -29,5 +30,5 @@ Chris requests to change the code via text and it gets manually hardcoded.
 # About
 
 ### New Changes
-+ Promo Code's Larger Font
+> empty
 
