@@ -5,7 +5,7 @@
 ## Overview
 
 ### Roadmap
-[x] Optimize css grid-template.
+> empty
 
 <br>
 
@@ -29,7 +29,4 @@ Chris requests to change the code via text and it gets manually hardcoded.
 # About
 
 ### New Changes
-> empty
-
-Staged:
-> + Removed Grid Template Redundancy
++ Removed Grid Template Redundancy
