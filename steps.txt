@@ -1,0 +1,54 @@
++ v0.0.1.0
++ v0.0.2.0
++ v0.1
++ v0.2
+
+¿v? - customize-css
+- [ ] Customize CSS
+	- [ ] Import 'Roboto' font from Google
+	- [ ] Prevent cursor change on text hover
+	- [ ] Prevent user text select
+	- [ ] Add no-highlight class
+	- [ ] Add underline class
+	- [ ] Anchor html-tag: custom default
+
+
+
+¿v? - clipboard-shortcut
+- [ ] Clipboard Shortcut
+	- [ ] Init promo-code flex container
+	- [ ] Add caption for promo-code
+	- [ ] Init JS
+	- [ ] Caption copy to clipboard on click
+	- [ ] Prevent user text select
+
+
+
+¿v? - responsive text
+- [ ] Responsive Text
+	- [ ] Set text's width to 100% of viewport
+	- [ ] Set text-align to center
+	- [ ] If wrap, lower font-size
+
+#info-container
+
+¿v? - info-items
+- [ ] Info Items
+	- [ ] Init info text items
+	- [ ] Get the Check icon from Google
+	[ Wrap info items into flex container ]
+	[ Align info items ]
+	- [ ] Add icon to each info item
+	- [ ] Insert info content
+
+¿v? - mvp
+- [ ] First Code
+	- [ ] Display current promo-code
+	- [ ] Document usage
+document on-complete:
+	[ Init Access section ]
+	[ Insert to Access:  Chris texts JaceVin to change code ]
+	[ Insert to Stage:  Manually hardcoded by JaceVin ]
+
+[ Release v1.0 ]  Minimum Viable Product (MVP)
+
